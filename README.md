@@ -1,4 +1,4 @@
-## IA Research Page
+# IA Research Page
 
 > IA work about knowledge and logic reasoning.
 
