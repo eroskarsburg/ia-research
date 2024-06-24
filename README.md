@@ -1,5 +1,3 @@
-# IA Research Page
-
 > IA work about knowledge and logic reasoning.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet odio congue, vehicula sapien sed, mattis elit. Ut facilisis arcu cursus, cursus sapien id, ultrices lacus. Sed pulvinar nisi non ipsum accumsan ultricies. Donec dignissim magna nunc, eu tempus sapien posuere sed. In ac varius odio, non laoreet dui. Sed luctus est eu purus feugiat aliquet. Donec maximus in quam vel bibendum.
