@@ -22,6 +22,7 @@ Por exemplo, considere um frame para representar o conceito de "Cachorro":
 		- Dono: Luiza
   
 > Cada slot contém um valor específico, e juntos eles descrevem um cachorro específico.
+> 
 > Esses slots podem também conter outros frames, criando uma hierarquia ou rede de informações interligadas.
   
 ### Vantagens e Desvantagens
