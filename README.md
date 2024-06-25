@@ -1,6 +1,4 @@
 > Trabalho de Inteligência Artificial sobre a representação de **conhecimento** e **raciocinio**.
->
-> **Componentes:** Eros Karsburg, Joyce Costa, Matthäus Campanher, Victor Woycickoski, Vitória Pilger
 
 ### 🔗 Representação de Conhecimento e Raciocínio
 A representação de conhecimento e raciocínio é um campo crucial da inteligência artificial dedicado a representar informações sobre o mundo de forma que sistemas computacionais possam utilizá-las para resolver tarefas complexas. Este campo incorpora descobertas da psicologia sobre como os humanos resolvem problemas e representam o conhecimento. Além disso, utiliza princípios da lógica para automatizar diversos tipos de raciocínio.
