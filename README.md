@@ -38,12 +38,12 @@ A ontologia desempenha um papel importante no avanço de sistemas inteligentes, 
   
 É composta por diversos elementos, sendo os principais:
 
-1. **Classes (Conceitos):** Representam categorias ou tipos de coisas no domínio. Por exemplo, em uma ontologia de animais, "Mamífero" e "Ave" seriam classes.
-2. **Indivíduos (Instâncias):** Representam objetos ou entidades específicas que pertencem a uma ou mais classes. Por exemplo, "Baleia" pode ser um indivíduo da classe "Mamífero".
-3. **Propriedades (Relações):** Descrevem atributos dos indivíduos e relacionamentos entre eles. Dividem-se em:
-	- **Propriedades de Dados (Data Properties):** Relacionam indivíduos a valores de dados (números, textos, datas).
-	- **Propriedades de Objetos (Object Properties):** Relacionam indivíduos a outros indivíduos.
-4. **Axiomas:** Declarações que especificam fatos sobre classes e propriedades, incluindo restrições e regras.
+**1.** **Classes (Conceitos):** Representam categorias ou tipos de coisas no domínio. Por exemplo, em uma ontologia de animais, "Mamífero" e "Ave" seriam classes.
+**2.** **Indivíduos (Instâncias):** Representam objetos ou entidades específicas que pertencem a uma ou mais classes. Por exemplo, "Baleia" pode ser um indivíduo da classe "Mamífero".
+**3.** **Propriedades (Relações):** Descrevem atributos dos indivíduos e relacionamentos entre eles. Dividem-se em:
+	**-** **Propriedades de Dados (Data Properties):** Relacionam indivíduos a valores de dados (números, textos, datas).
+	**-** **Propriedades de Objetos (Object Properties):** Relacionam indivíduos a outros indivíduos.
+**4.** **Axiomas:** Declarações que especificam fatos sobre classes e propriedades, incluindo restrições e regras.
    
 ### OWL (Web Ontology Language)
   OWL é uma linguagem de marcação baseada em XML desenvolvida pelo W3C para criar e compartilhar ontologias na web. Baseada na lógica de descrição, OWL permite definir classes, propriedades e relações complexas entre conceitos, facilitando a interoperabilidade e a inferência semântica em aplicações web.
