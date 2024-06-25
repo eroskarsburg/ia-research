@@ -21,7 +21,8 @@ Por exemplo, considere um frame para representar o conceito de "Cachorro":
 		- Cor: Caramelo
 		- Dono: Luiza
   
-> :memo: Cada slot contém um valor específico, e juntos eles descrevem um cachorro específico. Esses slots podem também conter outros frames, criando uma hierarquia ou rede de informações interligadas.
+> Cada slot contém um valor específico, e juntos eles descrevem um cachorro específico.
+> Esses slots podem também conter outros frames, criando uma hierarquia ou rede de informações interligadas.
   
 ### Vantagens e Desvantagens
 Os frames possuem várias vantagens e desvantagens. Entre as vantagens, destacam-se a estruturação, que oferece uma forma natural e intuitiva de organizar conhecimento, refletindo a maneira como os humanos categorizam e associam informações; a flexibilidade, que permite a inclusão de diferentes tipos de dados e regras na mesma estrutura; e o reuso, onde a herança facilita a reutilização de conhecimento, economizando tempo e recursos. 
