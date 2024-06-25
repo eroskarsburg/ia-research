@@ -7,7 +7,7 @@ Para que uma máquina utilize um corpo de conhecimento, é fundamental escolher 
   
 Diferentes sistemas de representação podem ser mais adequados para problemas específicos, e há um esforço contínuo para desenvolver sistemas e linguagens de representação de propósito geral. Embora inicialmente a ênfase fosse em como representar o conhecimento formalmente sem considerar sua utilização, a maioria das pesquisas atuais reconhece que é essencial considerar o raciocínio em conjunto com a representação. 
 
-### 📎 Frames
+### 📝 <span style="font-family: Montserrat">Frames</span>
 Frames, introduzidos por Marvin Minsky em 1974, são uma técnica desenvolvida para modelar conceitos complexos e suas relações de uma maneira estruturada e acessível. Caracterizam-se por identificar objetos complexos através de um nome e um conjunto de atributos. 
   
 Um frame é composto por uma coleção de atributos (chamados de slots) e valores (chamados de fillers). Cada frame representa uma entidade ou situação, e os slots descrevem as propriedades ou características dessa entidade.
@@ -20,7 +20,8 @@ Por exemplo, considere um frame para representar o conceito de "Cachorro":
 		- Raça: Vira-lata
 		- Cor: Caramelo
 		- Dono: Luiza
-  
+
+> [!NOTE]
 > Cada slot contém um valor específico, e juntos eles descrevem um cachorro específico.
 > Esses slots podem também conter outros frames, criando uma hierarquia ou rede de informações interligadas.
   
